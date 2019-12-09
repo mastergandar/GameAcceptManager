@@ -2,17 +2,28 @@
 Dota 2 Game Accept Manager
 
 # Installation / Установка
-Unzip the cloned repository to a convenient location.  
-Распакуйте клонированный репозиторий в удобное для вас место.
+Unzip the GameAcceptManager folder to the C:\.    
+Распакуйте папку GameAcceptManager на диск C:\.  
 
 # NOTICE!!! / ПРЕДУПРЕЖДЕНИЕ!!!
-The Dota 2 window should not be overlapped by other Windows while the program is running.  
-Во время работы программы окно Dota 2 не должно перекрываться другими окнами.
+On the first running change settings.    
+При первом запуске измените настройки.  
 
 # Settings / Настройка
-IN DEVELOPMENT  
-В РАЗРАБОТКЕ
+1)Sensetivity  
+2)Vk_ID for notice  
+1)Чувствительность  
+2)Vk_ID для оповещений  
   
 # ChangeLog / Изменения
   -v 0.1.0 Programm created  
-  -v 0.1.0 Программа создана
+  -v 0.1.0 Программа создана  
+  -v 0.2.0 UI created   
+  -v 0.2.0 UI создан   
+  -v 0.3.0 Vk_ID + config file added   
+  -v 0.3.0 Vk_ID + config file были добавлненны  
+  
+# Download / Скачать
+Google Disk: https://drive.google.com/open?id=13jg2GU0U9aDm9RgbznVWJWBaGRlzI3QA  
+Yandex.Disk: https://yadi.sk/d/8Nk6TxrA2FdM8w
+  
