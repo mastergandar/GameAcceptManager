@@ -14,6 +14,8 @@ On the first running change settings.
 2)Vk_ID for notice  
 1)Чувствительность  
 2)Vk_ID для оповещений  
+(для работы оповещенний ВК вступите в нашу группу и напишите боту https://vk.com/gamemanageraccesories)  
+(если оповещения вам не нужны в поле id впишите 0)  
   
 # ChangeLog / Изменения
   -v 0.1.0 Programm created  
